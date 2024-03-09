@@ -1,0 +1,68 @@
+
+.container{
+    background-color:#1D3752;
+    border-radius: 5px;
+}
+.contenido{
+     margin-left: 7%;
+     margin-right: 7%;
+     border: solid 3px #1D3752;
+     border-radius: 10px;
+     display:flex;
+     /*box-shadow: 3px 3px 15px gray;*/
+}
+.contenidos{
+    margin-left: 7%;
+    margin-right: 7%;
+    
+    border-radius: 10px;
+    display:flex;
+    /*box-shadow: 3px 3px 15px gray;*/
+}
+.titulocard{ 
+    
+    font-size:xxx-large;
+    margin-top: 2%;
+    margin-left: 10%;
+
+}
+.texto{
+    margin-top: 2%;
+    margin-left: 9%;
+    font-size: x-large;
+    margin-bottom: 15%;
+}
+.imagen{
+    padding: 5%;
+    
+}
+.imagen img{
+    width: 17rem;
+    height: 17rem;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px black;
+}
+.sectex{
+    width: 70%;
+}
+.pie{    
+    background-color:#1D3752;
+    height: 100px;
+    color: white;
+    display:flex;
+    margin-top: 1%;
+    margin-left: 6%;
+    margin-right: 6%;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 7px;
+    
+}
+.contacto{
+   width: 300px;
+    background-color:#1D3752;
+    margin-left: 5%;
+ 
+    
+}
+
